@@ -157,7 +157,7 @@ A front end developer works on "front end" code in an application, commonly mean
 ## User Experience / Usability
 User Experience is the driving force to why and how we use the programs and products that we find enjoyable and efficient. User Experience (UX) Designers go through a series of methods to understand their customers and what problems they need to fix. There are multiple principles and heuristics that most UX Design is based around created by Don Norman and Jakob Nielsen.
 - [Usability.gov: UX Definition](https://www.usability.gov/what-and-why/user-experience.html)
-- [NNGroup: Principles and Hueristics] (https://www.nngroup.com/articles/definition-user-experience/)
+- [NNGroup: Principles and Hueristics](https://www.nngroup.com/articles/definition-user-experience/)
 
 ## Open Educational Resources (OER)
 
